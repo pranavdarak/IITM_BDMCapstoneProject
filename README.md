@@ -1,4 +1,4 @@
-# Reatil Saree Store Optimization Project
+# Retail Saree Store Optimization Project
 
 ## Project Overview
 
